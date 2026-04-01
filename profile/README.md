@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://plisko.net/alex.png" width="80" style="border-radius: 50%" />
+<img src="./logo.svg" width="400" alt="PLISKO" />
 
-# Alex Plisko
+<br/>
 
 **Builder. Maker. Developer.**
 
@@ -11,7 +11,7 @@ From security research tools to habit trackers — if it solves a problem, it sh
 
 [![Website](https://img.shields.io/badge/plisko.net-000000?style=flat-square&logo=safari&logoColor=8BAD20)](https://plisko.net)
 [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pliskonews)
-[![GitHub](https://img.shields.io/badge/_drcode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Doc-Code)
+[![Twitter](https://img.shields.io/badge/_drcode-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_drcode)
 
 </div>
 

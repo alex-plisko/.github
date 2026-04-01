@@ -1,0 +1,45 @@
+<svg width="487" height="71" viewBox="0 0 975 142" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bar { animation: barGlow 3s ease-in-out infinite; }
+    .letter { animation: fadeIn 1s ease-out both; }
+    .l1 { animation-delay: 0.0s; }
+    .l2 { animation-delay: 0.1s; }
+    .l3 { animation-delay: 0.2s; }
+    .l4 { animation-delay: 0.3s; }
+    .l5 { animation-delay: 0.4s; }
+    .l6 { animation-delay: 0.5s; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes barGlow {
+      0%, 100% { opacity: 0.6; }
+      50%       { opacity: 1; }
+    }
+  </style>
+
+  <!-- horizontal bar -->
+  <rect class="bar" y="56.7559" width="975" height="28" fill="url(#grad)"/>
+
+  <!-- P -->
+  <path class="letter l1" d="M168.539 85.0532L196.89 113.404V141.755H168.539V113.404L140.188 85.0532V0H196.663C212.086 0 225.014 12.9281 225.014 28.3511V56.7021C225.014 72.1251 212.313 84.8264 196.89 85.0532H168.539ZM196.663 28.3511H168.539V56.7021H196.663V28.3511Z" fill="white"/>
+  <!-- L -->
+  <path class="letter l2" d="M251.739 141.755V85.0532L280.09 56.7021V0H308.441V56.7021L280.09 85.0532V113.404H336.792V141.755H251.739ZM278.049 85.0532L306.4 56.7021H282.132L253.781 85.0532H278.049Z" fill="white"/>
+  <!-- I -->
+  <path class="letter l3" d="M356.747 141.755V85.0532L385.098 56.7021V0H413.449V56.7021L385.098 85.0532V141.755H356.747Z" fill="white"/>
+  <!-- S -->
+  <path class="letter l4" d="M492.443 28.3511V56.7021L520.794 85.0532V113.404C520.794 128.827 507.866 141.755 492.443 141.755H464.092C448.669 141.755 435.741 128.827 435.741 113.404V85.0532H464.092V113.404H492.443V85.0532L464.092 56.7021V28.3511C464.092 12.9281 477.02 0 492.443 0H520.794C536.217 0 549.145 12.9281 549.145 28.3511V56.7021H520.794V28.3511H492.443ZM494.484 85.0532H518.753L490.402 56.7021H466.133L494.484 85.0532Z" fill="white"/>
+  <!-- K -->
+  <path class="letter l5" d="M665.545 113.404H693.896V141.755H665.319C649.896 141.528 637.194 128.827 637.194 113.404V85.0532L608.843 56.7021V141.755H580.492V0H608.843V28.3511H693.896V56.7021H637.194L665.545 85.0532V113.404Z" fill="white"/>
+  <!-- O -->
+  <path class="letter l6" d="M725.245 113.404V85.0532L753.596 56.7021V28.3511C753.596 12.9281 766.524 0 781.947 0H810.298C825.721 0 838.649 12.9281 838.649 28.3511V56.7021L810.298 85.0532V113.404C810.298 128.827 797.37 141.755 781.947 141.755H753.596C738.173 141.755 725.245 128.827 725.245 113.404ZM781.947 28.3511V56.7021L753.596 85.0532V113.404H781.947V85.0532L810.298 56.7021V28.3511H781.947ZM808.256 85.0532L836.608 56.7021H812.339L783.988 85.0532H808.256ZM751.554 85.0532L779.905 56.7021H755.637L727.286 85.0532H751.554Z" fill="white"/>
+
+  <defs>
+    <linearGradient id="grad" x1="0" y1="70" x2="975" y2="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0"    stop-color="#8BAD20" stop-opacity="0"/>
+      <stop offset="0.24" stop-color="#8BAD20"/>
+      <stop offset="0.76" stop-color="#8BAD20"/>
+      <stop offset="1"    stop-color="#8BAD20" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
