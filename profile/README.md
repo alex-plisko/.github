@@ -11,7 +11,7 @@ From security research tools to habit trackers — if it solves a problem, it sh
 
 [![Website](https://img.shields.io/badge/plisko.net-000000?style=flat-square&logo=safari&logoColor=8BAD20)](https://plisko.net)
 [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pliskonews)
-[![GitHub](https://img.shields.io/badge/@drcode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Doc-Code)
+[![GitHub](https://img.shields.io/badge/_drcode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Doc-Code)
 
 </div>
 
