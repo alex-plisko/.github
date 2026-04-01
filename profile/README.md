@@ -1,32 +1,40 @@
 <div align="center">
 
-# Alex Plisko · Open Source
+<img src="https://plisko.net/alex.png" width="80" style="border-radius: 50%" />
 
-**Security research tools, developer utilities, and AI experiments**
+# Alex Plisko
 
-[![Website](https://img.shields.io/badge/plisko.net-000000?style=flat&logo=safari&logoColor=8BAD20)](https://plisko.net)
-[![Telegram](https://img.shields.io/badge/@pliskonews-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/pliskonews)
+**Builder. Maker. Developer.**
+
+I build developer tools, AI experiments, and small products that scratch real itches.
+From security research tools to habit trackers — if it solves a problem, it ships.
+
+[![Website](https://img.shields.io/badge/plisko.net-000000?style=flat-square&logo=safari&logoColor=8BAD20)](https://plisko.net)
+[![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pliskonews)
+[![GitHub](https://img.shields.io/badge/@drcode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Doc-Code)
 
 </div>
 
 ---
 
-## 🔧 Projects
+## 🚀 Projects
 
-### [cc-unpacker](https://github.com/alex-plisko/cc-unpacker)
-> 🔍 Find npm packages with accidental source map exposure
+| Project | Description | Live |
+|---------|-------------|------|
+| [**cc-unpacker**](https://github.com/alex-plisko/cc-unpacker) | 🔍 Find npm packages leaking source maps — recover original source code | [cc-unpacker.plisko.net](https://cc-unpacker.plisko.net) |
 
-Security research tool that recovers original source code from npm packages via source maps. Useful for responsible disclosure of unintended leaks.
+> More projects shipping soon via [Mini-Factory](https://plisko.net) — daily micro-products built with AI agents.
 
-**[→ Try it online: cc-unpacker.plisko.net](https://cc-unpacker.plisko.net)**
+---
 
-```bash
-pip install cc-unpacker
-cc-unpacker analyze @some/package
-```
+## 🌱 What I'm working on
+
+- **Mini-Factory** — automated pipeline that spots trending dev problems and ships micro-tools daily
+- **AI Agents** — building teams of specialized agents that design, code, and deploy autonomously
+- **Open Source** — turning internal tools into public projects when they're useful to others
 
 ---
 
 <div align="center">
-<sub>All tools are for security research and educational purposes only.</sub>
+<sub>Built with ☕ and AI · <a href="https://plisko.net">plisko.net</a></sub>
 </div>
